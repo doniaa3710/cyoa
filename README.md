@@ -2,4 +2,4 @@
 
 ---
 
-Click [here](wake-up.md) to begin
+Click [here](situations/wake-up.md) to begin
