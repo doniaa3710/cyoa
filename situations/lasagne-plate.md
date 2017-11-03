@@ -1,4 +1,4 @@
-You take a bite of the beautiful plate of lasagne, but you find yourself choking. 
+You see a beautiful plate of lasagne and you are really hungry.  
 
 [Do you eat the food?](gasping-for-air.md)    
 
