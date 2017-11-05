@@ -1,4 +1,4 @@
-# Sleep Inside the Haunted House  
+# ZZzzzzzzzzzz
 You sleep inside and wait until someone comes for you.  
 
 [Your watch wakes you up, but the exit is still locked](explore-house.md)  
