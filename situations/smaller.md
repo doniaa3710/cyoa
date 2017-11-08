@@ -1,5 +1,5 @@
 # Small?
-You turn small and encounter a small mouse door.  
+You turn small and walk around a bit. You see a tiny hole leading to a big bedroom.
 
-[Go in the mouse door and find a big bedroom with an exit door](leaving-house.md)  
+[Go through the hole and find an exit door](leaving-house.md)  
 [Don't go in and continue exploring the house](starvation.md)  

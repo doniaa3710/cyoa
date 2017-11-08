@@ -1,5 +1,5 @@
 # Walk inside the Haunted House  
-You walk around in about 500 steps and become hungry.  
+You walk around for about 5 minutes. You become hungry.
 
-[Your stomach keeps growling and then you see a room label named Kitchen. You eat something there.](smaller.md)  
-[Get something out of the bag and eat something](smaller.md)  
+[You see a room labeled, Kitchen. You eat something there.](smaller.md)  
+[Get food out of the bag and eat it.](smaller.md)  
